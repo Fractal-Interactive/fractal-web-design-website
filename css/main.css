@@ -7,7 +7,7 @@ header img {
     margin-left: 10px;
     margin-right: 0px;
 	margin-top: 10px;
-    width: 40px;
+    width: 45px;
 	float: left;
 }
 header h1 {
@@ -17,6 +17,7 @@ header h1 {
 	color: white;
 	margin: 0px;
 	padding: 0px;
+	font-family: "Times New Roman";
 }
 header {
 	background-color: #333333;
@@ -45,10 +46,14 @@ nav li a {
     text-align: center; /* Put text in the center of button */
     padding: 16px;
     text-decoration: none;
+	font-family: Arial;
 }
 
 nav li a:hover {
     background-color: #111111; /* Change background of buttons when hovered over*/
+}
+nav {
+	margin-left: 0px;
 }
 /********************/
 
