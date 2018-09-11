@@ -93,7 +93,7 @@ nav {
 article {
 	margin-left: 10%;
 	margin-right: 10%;
-	margin-top: 3%;
+	margin-top: 15px;
 }
 article h1 {
 	font-family: Arial;
@@ -108,7 +108,7 @@ article p {
 	font-family: "Times New Roman";
 }
 article ul {
-	margin-left: 2.05%
+	margin-left: 16px;
 }
 canvas {
 	background: #eee;
